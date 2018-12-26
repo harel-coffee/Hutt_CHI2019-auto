@@ -1,5 +1,7 @@
 # Hutt_CHI2019
+This repository is linked to a paper at CHI 2019 - "Time to Scale, Generalizable Affect Detection for Tens of Thousands of Students across an Entire School Year"
 
+When this paper is published on the ACM Digital Library, a link will be posted here (Expected May 2019).
 
 ## Feed Forward Neural Networks
 See the folder "NeuralNetworks" for information on these models.
